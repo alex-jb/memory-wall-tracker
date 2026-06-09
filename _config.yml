@@ -1,0 +1,18 @@
+title: Memory Wall Tracker
+description: Brier-audited daily research on Druckenmiller's AI inference memory basket — AVGO/INTC/ARM/MU/STX/WDC
+url: https://alex-jb.github.io/memory-wall-tracker
+theme: minima
+author:
+  name: Alex Xiaoyu Ji
+  email: xji1@mail.yu.edu
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+include:
+  - briefs
+defaults:
+  - scope:
+      path: briefs
+    values:
+      layout: page
