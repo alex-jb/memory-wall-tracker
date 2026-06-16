@@ -32,6 +32,8 @@ Most stock newsletters cherry-pick winners. This one publishes every prediction 
 
 - Druckenmiller Q1 2026 13F filing ([SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001536411))
 - [Motley Fool: Druckenmiller AI inference basket coverage](https://www.fool.com/investing/2026/05/24/why-billionaire-stanley-druckenmiller-dumped-nvidi/)
+- [Dwarkesh Podcast: Reiner Pope — Chip design from the bottom up (2026-05-22)](https://www.dwarkesh.com/p/reiner-pope-chip-design) — why GPU / TPU / FPGA / brain architectures evolved into their specific shapes; the paper-layer backing for why "memory wall" is a basket of memory + bandwidth + interconnect, not a single chip
+- [晚点聊 LateTalk ep. 169 (2026-06-15) — Cerebras 早期投资人周楠](https://www.xiaoyuzhoufm.com/podcast/61933ace1b4320461e91fd55) — non-Nvidia compute thesis; surfaced Cerebras as a pre-IPO add to the watchlist
 - [Acquirers Multiple: Druckenmiller 2026-03 podcast notes](https://acquirersmultiple.com/2026/03/stanley-druckenmiller-massive-disruption-ahead/)
 
 ## Architecture
@@ -49,6 +51,7 @@ Most stock newsletters cherry-pick winners. This one publishes every prediction 
 - [ ] Brier audit pipeline (settle predictions at 1mo / 3mo / 6mo)
 - [ ] Public Brier leaderboard at memory-wall.alex-jb.com
 - [ ] Add bonus tickers: NVDA (control), SK Hynix ADR, AVAV, KLAC
+- [ ] Add CRBS (Cerebras) to the basket on IPO. Pre-IPO watchlist pending — non-Nvidia inference + wafer-scale moat per LateTalk ep169 (2026-06-15). When listed, weight ≤ 5% until 30-day post-IPO Brier signal accumulates.
 
 ## Related
 
